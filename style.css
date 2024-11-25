@@ -1,0 +1,28 @@
+h1{text-align: center;
+    font-style: italic;
+    color:aliceblue;
+    background-color:cadetblue;
+    border: 2px;
+    border-style:dashed;
+    border-color: black;
+    border-radius: 12px;
+}
+#para{
+    border: 2px red solid;
+    margin: 20px;
+    padding: :30px;
+}
+li{
+    list-style-type: disc;
+
+}
+.para{
+    border: 2px red solid;
+    margin: 20px 50px;
+    padding: :30px 20px;
+}
+.cen{
+    image-orientation: flip;
+    image-width:100% ;
+}
+
